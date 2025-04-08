@@ -18,7 +18,7 @@ Welcome to **PrimeCheck**, the revolutionary tool that uses the computational po
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/primecheck.git
+git clone https://github.com/florinel-chis/primecheck.git
 cd primecheck
 go build
 ```
